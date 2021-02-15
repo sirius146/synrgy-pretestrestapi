@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+    <books>
+        <id> 1 </id>
+        <isbn> 10001 </isbn>
+        <judul>Judul 1</judul>
+        <sinopsis>ini adalah sinopsis judul1</sinopsis>
+        <penulis>Ani</penulis>
+        <genre>Romance</genre>
+    </books>
+    <books>
+        <id> 2 </id>
+        <isbn> 10002 </isbn>
+        <judul>Judul 2</judul>
+        <sinopsis>ini adalah sinopsis judul2</sinopsis>
+        <penulis>Boni</penulis>
+        <genre>Action</genre>
+    </books>
+    <books>
+        <id> 3 </id>
+        <isbn> 10003 </isbn>
+        <judul>Judul 3</judul>
+        <sinopsis>ini adalah sinopsis judul3</sinopsis>
+        <penulis>Ani</penulis>
+        <genre>Action</genre>
+    </books>
